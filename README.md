@@ -79,7 +79,6 @@ gold-dashboard/
 ├── jin10_api.example.py            # 金十MCP客户端封装（需配置Token）
 ├── index_jin10.html                # 前端单页面看板
 ├── start_jin10_server.bat          # Windows一键启动脚本
-├── .env.example                    # 配置模板
 ├── PROJECT_SUMMARY.md              # 完整项目文档
 └── README.md                       # 本文件
 ```
